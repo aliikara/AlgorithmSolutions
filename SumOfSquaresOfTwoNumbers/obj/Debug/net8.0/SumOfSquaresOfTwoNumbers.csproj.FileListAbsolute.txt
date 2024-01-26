@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\bin\Debug\net8.0\SumOfSquaresOfTwoNumbers.exe
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\bin\Debug\net8.0\SumOfSquaresOfTwoNumbers.deps.json
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\bin\Debug\net8.0\SumOfSquaresOfTwoNumbers.runtimeconfig.json
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\bin\Debug\net8.0\SumOfSquaresOfTwoNumbers.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\bin\Debug\net8.0\SumOfSquaresOfTwoNumbers.pdb
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\SumOfSquaresOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\SumOfSquaresOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\SumOfSquaresOfTwoNumbers.AssemblyInfo.cs
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\SumOfSquaresOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\SumOfSquaresOfTwoNumbers.sourcelink.json
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\SumOfSquaresOfTwoNumbers.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\refint\SumOfSquaresOfTwoNumbers.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\SumOfSquaresOfTwoNumbers.pdb
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\SumOfSquaresOfTwoNumbers.genruntimeconfig.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\SumOfSquaresOfTwoNumbers\obj\Debug\net8.0\ref\SumOfSquaresOfTwoNumbers.dll
