@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfSquaresOfTwoNumbers", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheSumOfTheCubesOfTheNumbersOneThroughTen", "TheSumOfTheCubesOfTheNumbersOneThroughTen\TheSumOfTheCubesOfTheNumbersOneThroughTen.csproj", "{986A935A-936C-4BE7-9BCE-E1F1F0AD47B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculation", "AgeCalculation\AgeCalculation.csproj", "{ECA32286-8973-4FB5-8D73-D39E49374D37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeCalculation", "AgeCalculation\AgeCalculation.csproj", "{ECA32286-8973-4FB5-8D73-D39E49374D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialCalculation", "FactorialCalculation\FactorialCalculation.csproj", "{B7B4B4BD-B6BD-4036-AF07-D526861A0B2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{ECA32286-8973-4FB5-8D73-D39E49374D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECA32286-8973-4FB5-8D73-D39E49374D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECA32286-8973-4FB5-8D73-D39E49374D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B4B4BD-B6BD-4036-AF07-D526861A0B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B4B4BD-B6BD-4036-AF07-D526861A0B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B4B4BD-B6BD-4036-AF07-D526861A0B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B4B4BD-B6BD-4036-AF07-D526861A0B2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

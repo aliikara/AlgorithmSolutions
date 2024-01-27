@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.exe
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.deps.json
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.runtimeconfig.json
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.pdb
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.AssemblyInfo.cs
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.sourcelink.json
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\refint\FactorialCalculation.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.pdb
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.genruntimeconfig.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\FactorialCalculation\obj\Debug\net8.0\ref\FactorialCalculation.dll

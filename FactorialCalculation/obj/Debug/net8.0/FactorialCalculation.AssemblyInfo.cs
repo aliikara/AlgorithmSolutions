@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AgeCalculation")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FactorialCalculation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("AgeCalculation")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AgeCalculation")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2a91876bf9e6204f00b50d0a708fbfe59e952f")]
+[assembly: System.Reflection.AssemblyProductAttribute("FactorialCalculation")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FactorialCalculation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
