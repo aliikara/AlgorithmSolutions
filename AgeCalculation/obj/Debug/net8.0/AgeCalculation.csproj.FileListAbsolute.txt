@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\bin\Debug\net8.0\AgeCalculation.exe
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\bin\Debug\net8.0\AgeCalculation.deps.json
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\bin\Debug\net8.0\AgeCalculation.runtimeconfig.json
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\bin\Debug\net8.0\AgeCalculation.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\bin\Debug\net8.0\AgeCalculation.pdb
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\AgeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\AgeCalculation.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\AgeCalculation.AssemblyInfo.cs
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\AgeCalculation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\AgeCalculation.sourcelink.json
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\AgeCalculation.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\refint\AgeCalculation.dll
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\AgeCalculation.pdb
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\AgeCalculation.genruntimeconfig.cache
+C:\Users\USER\Desktop\AlgorithmSolutions\AgeCalculation\obj\Debug\net8.0\ref\AgeCalculation.dll
